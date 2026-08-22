@@ -94,10 +94,3 @@
 | Microsoft PowerPoint 2016 - Básico                 | Fundação Bradesco | 8 horas       | 09/03/2026 |
 | Microsoft PowerPoint 2016 - Avançado               | Fundação Bradesco | 8 horas       | 06/04/2026 |
 
-### ☕ Estudos de Java
-
-Projetos desenvolvidos durante meus estudos de Java, praticando lógica de programação e orientação a objetos.
-
-### 📝 Estudos de Markdown
-
-Anotações e exemplos sobre Markdown e documentação.
