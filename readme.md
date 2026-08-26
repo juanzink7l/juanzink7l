@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-* 🎓 Cursando Técnico em Informática para Internet na instituição SENAI
+* 🎓 Cursando Técnico em Informática para Internet no Instituto SENAI
 * 🎓 Cursando Inglês na plataforma Kultivi
 * 🎓 Cursando o 3º ano do ensino médio
 * 🎓 Sou vestibulando e estou me preparando para ingressar em Engenharia de Software
@@ -35,12 +35,7 @@
 
 ### Linguagens
 
-| Linguagem  | Nível         |
-| ---------- | ------------- |
-| Python     | Intermediário |
-| JavaScript | Básico        |
-| HTML       | Intermediário |
-| CSS        | Intermediário |
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=juanzink7l&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=juanzink7l&langs_count=4&theme=midnight-purple) 
 
 ### Banco de Dados
 
@@ -95,4 +90,6 @@
 | **Microsoft PowerPoint 2016 - Básico**                 | **Fundação Bradesco**   | **8 horas**       | **09/03/2026** |
 | **Microsoft PowerPoint 2016 - Avançado**               | **Fundação Bradesco**   | **8 horas**       | **06/04/2026** |
 
+## Estatísticas
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=juanzink7l&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=juanzink7l&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=dark)
