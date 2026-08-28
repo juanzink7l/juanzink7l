@@ -97,3 +97,6 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=juanzink7l&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=juanzink7l&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=dark)
 
 
+## 📫 Entre em contato
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanzink7l@gmail.com)
