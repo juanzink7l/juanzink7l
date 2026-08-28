@@ -33,17 +33,15 @@
 
 ## 💻 Habilidades
 
-### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=juanzink7l&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=juanzink7l&langs_count=4&theme=midnight-purple) 
-
-### Banco de Dados
-
-| Banco de Dados | Nível         |
-| -------------- | ------------- |
-| MySQL          | Intermediário |
-| SQLite         | Básico        |
-| SQL Server     | Básico        |
 
 ### Ferramentas
 
@@ -66,6 +64,8 @@
 ---
 
 ## 📚 Cursos
+<details>
+<summary>📚 Ver cursos e certificações</summary>
 
 | **Curso**                                              | **Instituição**         | **Carga Horária** | **Conclusão**  |
 | ------------------------------------------------------ | ----------------------- | ----------------- | -------------- |
@@ -81,7 +81,6 @@
 | **Excel na Prática**                                   | **Fundação Bradesco**   | **16 horas**      | **03/02/2026** |
 | **Introdução à Administração**                         | **Fundação Bradesco**   | **12 horas**      | **16/03/2026** |
 | **Educação Financeira**                                | **Fundação Bradesco**   | **4 horas**       | **22/05/2026** |
-| **Comunicação Escrita: Ortografia, Gramática e Texto** | **Fundação Bradesco**   | **16 horas**      | **20/04/2026** |
 | **Microsoft Word 2016 - Básico**                       | **Fundação Bradesco**   | **9 horas**       | **09/02/2026** |
 | **Microsoft Word 2016 - Intermediário**                | **Fundação Bradesco**   | **12 horas**      | **04/03/2026** |
 | **Microsoft Word 2016 - Avançado**                     | **Fundação Bradesco**   | **8 horas**       | **22/06/2026** |
@@ -90,6 +89,11 @@
 | **Microsoft PowerPoint 2016 - Básico**                 | **Fundação Bradesco**   | **8 horas**       | **09/03/2026** |
 | **Microsoft PowerPoint 2016 - Avançado**               | **Fundação Bradesco**   | **8 horas**       | **06/04/2026** |
 
+
+</details>
+
 ## Estatísticas
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=juanzink7l&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=juanzink7l&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20Github&show_icons=true&include_all_commits=true&theme=dark)
+
+
