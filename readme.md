@@ -45,21 +45,21 @@
 
 ### Ferramentas
 
-| Ferramenta      | Nível         |
-| --------------- | ------------- |
-| Git             | Intermediário |
-| GitHub          | Intermediário |
-| VS Code         | Intermediário |
-| PyCharm         | Intermediário |
-| MySQL Workbench | Intermediário |
-| Figma           | Intermediário |
-| draw.io         | Intermediário |
-| BRModelo        | Intermediário |
-| Render          | Intermediário |
-| Markdown        | Intermediário |
-| Canva           | Intermediário |
-| Word            | Intermediário |
-| Excel           | Intermediário |
+| Ferramenta    |
+| --------------- |
+| Git            |
+| GitHub         |
+| VS Code       |
+| PyCharm        
+| MySQL Workbench |
+| Figma        |  
+| draw.io        |
+| BRModelo        |
+| Render         |
+| Markdown       |
+| Canva          |
+| Word        |
+| Excel          |
 
 ---
 
