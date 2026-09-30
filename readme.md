@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou Juan!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=false&vCenter=true&width=600&lines=Estudante+de+programa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Aprendendo+desenvolvimento+de+software;Futuro+Engenheiro+de+Software)](https://git.io/typing-svg)
+
 <table>
   <tr>
     <td width="65%" valign="top">
@@ -26,40 +28,33 @@
 
 * 🎓 Cursando Técnico em Informática para Internet no Instituto SENAI
 * 🎓 Cursando Inglês na plataforma Kultivi
-* 🎓 Cursando o 3º ano do ensino médio
-* 🎓 Sou vestibulando e estou me preparando para ingressar em Engenharia de Software
+* 🎓 Futuro Engenheiro de Software
 
 ---
 
-## 💻 Habilidades
+## 💻 Tecnologias
+
+### 🧠 Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Frameworks e Tecnologias
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Bancos de dados
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=juanzink7l&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=juanzink7l&langs_count=4&theme=midnight-purple) 
-
-### Ferramentas
-
-| Ferramenta    |
-| --------------- |
-| Git            |
-| GitHub         |
-| VS Code       |
-| PyCharm        
-| MySQL Workbench |
-| Figma        |  
-| draw.io        |
-| BRModelo        |
-| Render         |
-| Markdown       |
-| Canva          |
-| Word        |
-| Excel          |
 
 ---
 
