@@ -4,7 +4,7 @@
   <tr>
     <td width="65%" valign="top">
 
-💻 Estudante de programação
+💻 Desenvolvedor em formação
 
 🚀 Aprendendo desenvolvimento de software
 
